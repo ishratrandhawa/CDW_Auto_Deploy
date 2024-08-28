@@ -10,7 +10,7 @@ export const initialMessages: ChatGPTMessage[] = [
   {
     role: "assistant",
     content:
-      "Hi! I am an interactive chat bot that is going to help assist you with your Cal Poly Slo needs. Feel free to ask me any questions.",
+      "Hi! I am an interactive chat bot that is going to help assist you with finding the best school for you at Cal Poly.",
   },
 ];
 
